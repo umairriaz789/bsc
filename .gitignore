@@ -36,7 +36,6 @@ profile.cov
 .idea
 
 # VS Code
-.vscode
 
 # dashboard
 /dashboard/assets/flow-typed
@@ -52,3 +51,5 @@ cmd/geth/__debug_bin
 cmd/bootnode/bootnode
 graphql/__debug_bin
 logs/
+config.bat
+node_modules
